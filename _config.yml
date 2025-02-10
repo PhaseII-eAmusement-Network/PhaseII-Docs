@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: PhaseDocs
+description: Documentation for all things PhaseII
 theme: just-the-docs
+color_scheme: dark
+favicon_ico: /public/favicon.png
 
-url: https://just-the-docs.github.io
+url: https://docs.phaseii.network
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  WebUI V2: https://phaseii.network
+  WebUI V3 (beta): https://web3.phaseii.network
